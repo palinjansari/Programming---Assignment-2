@@ -12,3 +12,14 @@ It is discussed in chapter 2.
 
 Purpose of project: To illustrate the basics of fields, constructors, and methods.
 How to start this project: Create one or more TicketMachine objects.
+
+2) It's 0
+3) When you insert more or less money than needed you will still get a ticket and it isn't different
+5) It's pretty much the same the only difference is the value that I put it to
+6) Student{} and LabClass{}
+7) Yes it does matter because if you make it class public it doesn't work, it makes the class diagram red and even though it says that it's wrong it doesn't
+specifically say what is wrong with the code
+8) Yes it is possible
+9) It isn't possible
+10) Some names in the field include: getPrice(), getBalance(), insertMoney() and printTicket()
+11) It's 
