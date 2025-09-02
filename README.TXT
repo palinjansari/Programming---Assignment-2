@@ -39,4 +39,15 @@ specifically say what is wrong with the code
 18) 
 19) It has 2 parameters
 20) Yes it will be. Some of it's fields might be, title and price
-21) 
+21) public Pet(String petsName)
+    {
+        
+    }
+22) 
+23) In the header it explains their functions and in the body it's a different code to run it
+24) It would be "How much money do you have?"
+25) No, the return statement doesn't need to be changed
+26) 
+27) It says "missing return statment"
+28) They have a different body
+29) 
