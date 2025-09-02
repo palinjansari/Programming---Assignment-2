@@ -22,4 +22,21 @@ specifically say what is wrong with the code
 8) Yes it is possible
 9) It isn't possible
 10) Some names in the field include: getPrice(), getBalance(), insertMoney() and printTicket()
-11) It's 
+11) It's doesn't have a return type and it's a new word
+12) int;
+    int;
+    int;
+13) alive
+    tutor
+    game
+14) private Person tutor
+    private Student representative;
+    private Server host;
+    private Game game;
+15) The order does matter because writing it as private price int creates an error
+16) Yes because without it the code won't work
+17) private int status; 
+18) 
+19) It has 2 parameters
+20) Yes it will be. Some of it's fields might be, title and price
+21) 
