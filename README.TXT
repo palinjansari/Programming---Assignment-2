@@ -50,4 +50,11 @@ specifically say what is wrong with the code
 26) 
 27) It says "missing return statment"
 28) They have a different body
-29) 
+29) Yes, because the machine has a set amount that can't be surpassed
+34) int currentAge = 30;
+35) private boolean alive; true
+37) "My cat has green eyes.
+39) It would be # price and cents separated
+40) It would all be one word
+41) Because you inputed a different amount into the cost
+
